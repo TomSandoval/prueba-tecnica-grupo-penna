@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+label {
+    font-weight: 600;
+}
+
+input {
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #666;
+    padding: 4px 6px;
+    width: 100%;
+}
+
+input[type=submit] {
+    border-radius: 5px;
+    background-color: #252525;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
